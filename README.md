@@ -1,0 +1,2 @@
+# NOKIA
+NOKIA RC110 hwdb for CoreELEC
